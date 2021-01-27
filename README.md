@@ -1,4 +1,4 @@
-> 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+> 大数据服务组件常见问题累积表 :zap:
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/skywind3000/awesome-cheatsheets) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/skywind3000/awesome-cheatsheets/blob/master/LICENSE)
 [![Backers on Open Collective](https://opencollective.com/awesome-cheatsheets/backers/badge.svg)](#backers) 
